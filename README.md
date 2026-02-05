@@ -4,7 +4,7 @@ Organize files in your current directory, by classifying them into folders of mu
 
 ## Installation
 ```sh
-$ pip install classifier
+$ pip install classifier 
 ```
 #### Compatibility
 * Python 2.7 / Python 3.4
